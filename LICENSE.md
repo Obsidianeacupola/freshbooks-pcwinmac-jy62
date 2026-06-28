@@ -1,4 +1,4 @@
-# 
+# Oficial FreshBooks scripts para Mac OS | Ligero FreshBooks scripts para PC Windows. Con herramientas de presupuesto y gestión de nóminas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
